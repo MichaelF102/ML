@@ -69,7 +69,7 @@ export const MLvsProgramming = () => {
             <ChevronRight size={32} className="text-slate-400 flex-shrink-0" />
             
             <div className="bg-emerald-100 text-emerald-800 p-4 rounded-lg font-bold text-center w-32 shadow-sm border border-emerald-200 flex-shrink-0">
-              {mode === 'traditional' ? 'Answers' : 'Rules (Model)'}
+              {mode === 'traditional' ? 'Answers' : 'Model'}
             </div>
           </div>
           
