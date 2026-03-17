@@ -55,7 +55,7 @@ export const MLvsProgramming = () => {
             <div className="flex flex-col space-y-4">
               <div className="bg-blue-100 text-blue-800 p-4 rounded-lg font-bold text-center w-32 shadow-sm border border-blue-200">Data</div>
               <div className="bg-blue-100 text-blue-800 p-4 rounded-lg font-bold text-center w-32 shadow-sm border border-blue-200">
-                {mode === 'traditional' ? 'Rules (Code)' : 'Answers'}
+                {mode === 'traditional' ? 'Code' : 'Output'}
               </div>
             </div>
             
