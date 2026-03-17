@@ -69,7 +69,7 @@ export default function App() {
           <h1 className="text-xl font-black text-white flex items-center">
             <Brain className="mr-3 text-indigo-500" /> ML Interactive
           </h1>
-          <p className="text-xs text-slate-500 mt-2">15 Core Concepts Visualized</p>
+          <p className="text-xs text-slate-500 mt-2">By Michael Fernandes</p>
         </div>
         <div className="flex-1 overflow-y-auto py-4 custom-scrollbar">
           {topics.map((topic) => {
